@@ -1,0 +1,268 @@
+stadium name,City/State,Year built,indoor/outdoor,Address,Dome/Outdoors,Field,Lat,Long,stadium,team_away
+Alamo Dome,"San Antonio, TX",,indoor,"100 Montana St, San Antonio, TX 78203",dome,FieldTurf,39.0692,-94.4871,Soldier Field,Green Bay Packers
+Alltel Stadium,"Jacksonville, FL",,,,,,32.7572,-97.0736,University of Phoenix Stadium,Detroit Lions
+Alumni Stadium,"Chestnut Hill, MA",,outdoor,"Perimeter Rd, Chestnut Hill, MA 02467",cold,Grass,,,Bank of America Stadium,Los Angeles Rams
+Arrowhead Stadium,"Kansas City, MO",1972,outdoor,"1 Arrowhead Dr, Kansas City, MO 64129",cold,Grass,47.6523,-122.4095,FirstEnergy Stadium,Tennessee Titans
+AT&T Stadium,"Arlington, TX",2009,retractable,"1 AT&T Way, Arlington, TX 76011",dome,FieldTurf,,,AT&T Stadium,New York Giants
+Balboa Stadium,"San Diego, CA",,outdoor,"Balboa Stadium, San Diego, CA 92101",warm,Grass,32.7572,-97.0736,TIAA Bank Field,Kansas City Chiefs
+CenturyLink Field,"Seattle, WA",2002,outdoor,"800 Occidental Ave S, Seattle, WA 98134",moderate,FieldTurf,,,StubHub Center,Indianapolis Colts
+Cotton Bowl,"Dallas, TX",,outdoor,"1300 Robert B Cullum Blvd., Dallas, TX 75210",moderate,"Grass, Turf (1970-1971)",,,Hard Rock Stadium,Baltimore Ravens
+Cowboys Stadium,"Arlington, TX",2009,retractable,"1 AT&T Way, Arlington, TX 76011",dome,FieldTurf,,,U.S. Bank Stadium,Atlanta Falcons
+Dolphin Stadium,"Miami, FL",,,,,,30.23333,-81.66667,Gillette Stadium,Pittsburgh Steelers
+Edward Jones Dome,"St. Louis, MO",1995,indoor,"901 N Broadway, St. Louis, MO 63101",dome,,41.4057,-81.852,MetLife Stadium,Buffalo Bills
+Estadio Azteca,"Mexico City, Mexico",1966,outdoor,"Calz. de Tlalpan 3465, Sta. ê_rsula Coapa, Coyoac_†çn, 04650 Ciudad de MÅ_xico, D.F., Mexico",warm,,,,Lincoln Financial Field,Washington Redskins
+EverBank Field,"Jacksonville, FL",1995,outdoor,"1 Everbank Field Dr, Jacksonville, FL 32202",warm,Grass,,,CenturyLink Field,Cincinnati Bengals
+FirstEnergy Stadium,"Cleveland, OH",1999,outdoor,"100 Alfred Lerner Way, Cleveland, OH 44114",cold,Grass,,,Raymond James Stadium,San Francisco 49ers
+Ford Field,"Detroit, MI",2002,indoor,"2000 Brush St, Detroit, MI 48226",dome,FieldTurf,42.0479,-71.005,Mercedes-Benz Superdome,Houston Texans
+Franklin Field,"Philadelphia, PA",,outdoor,"S. 33rd and Spruce St., Philadelphia, PA 19104",cold,"Grass, Turf (1969-1970)",25.7905,-80.3163,Oakland Coliseum,Denver Broncos
+Georgia Dome,"Atlanta, GA",1992,indoor,"1 Georgia Dome Dr, Atlanta, GA 30313",dome,FieldTurf,40.4846,-80.2144,Bank of America Stadium,Tampa Bay Buccaneers
+Gillette Stadium,"Foxborough, MA",2002,outdoor,"1 Patriot Pl, Foxborough, MA 02035",cold,FieldTurf,,,Mercedes-Benz Stadium,Philadelphia Eagles
+Hard Rock Stadium,"Miami Gardens, FL",1987,outdoor,"347 Don Shula Dr, Miami Gardens, FL 33056",warm,Grass,,,M&T Bank Stadium,Arizona Cardinals
+Heinz Field,"Pittsburgh, PA",2001,outdoor,"100 Art Rooney Ave, Pittsburgh, PA 15212",cold,Grass,,,Paul Brown Stadium,San Francisco 49ers
+Jack Murphy Stadium,"San Diego, CA",,,,,,44.4794,-88.1366,Sports Authority Field at Mile High,Chicago Bears
+Joe Robbie Stadium,"Miami, FL",,,,,,39.87327,-75.22678,Ford Field,Los Angeles Chargers
+Kansas City Municipal Stadium,"Kansas City, MO",,outdoor,"Brooklyn Ave & E. 22nd St., Kansas City, MO 64127",cold,Grass,33.938,-118.3888,Lambeau Field,Minnesota Vikings
+Lambeau Field,"Green Bay, WI",1957,outdoor,"1265 Lombardi Ave, Green Bay, WI 54304",cold,Grass,,,NRG Stadium,Jacksonville Jaguars
+Lincoln Financial Field,"Philadelphia, PA",2003,outdoor,"1020 Pattison Ave, Philadelphia, PA 19148",cold,Grass,39.8721,-86.1201,Los Angeles Memorial Coliseum,New Orleans Saints
+Los Angeles Memorial Coliseum,"Los Angeles, CA",1946,outdoor,"3911 S Figueroa St, Los Angeles, CA 90037",warm,Grass,39.1733,-76.684,Hard Rock Stadium,New England Patriots
+Louisiana Superdome,"New Orleans, LA",1975,indoor,"1500 Sugar Bowl Dr, New Orleans, LA 70112",dome,FieldTurf,,,MetLife Stadium,Buffalo Bills
+Lucas Oil Stadium,"Indianapolis, IN",2008,retractable,"500 S Capitol Ave, Indianapolis, IN 46225",dome,FieldTurf,40.6825,-74.1694,Oakland Coliseum,Kansas City Chiefs
+M&T Bank Stadium,"Baltimore, MD",1998,outdoor,"1101 Russell St, Baltimore, MD 21230",moderate,FieldTurf,42.889,-78.8901,Heinz Field,Seattle Seahawks
+Mercedes-Benz Superdome,"New Orleans, LA",1975,indoor,"1500 Sugar Bowl Dr, New Orleans, LA 70112",dome,FieldTurf,,,Nissan Stadium,Indianapolis Colts
+MetLife Stadium,"East Rutherford, NJ",2010,outdoor,"1 MetLife Stadium Dr, East Rutherford, NJ 07073",cold,FieldTurf,29.63806,-95.28194,FedEx Field,Dallas Cowboys
+New Era Field,"Orchard Park, NY",1973,outdoor,"1 Bills Dr, Orchard Park, NY 14127",cold,FieldTurf,37.72139,-122.22083,MetLife Stadium,Cleveland Browns
+Nippert Stadium,"Cincinnati, OH",,outdoor,"2700 Bearcats Way (99 W Corry St.), Cincinnati, OH 45221",cold,Grass,39.1,-84.51667,TIAA Bank Field,Tennessee Titans
+NRG Stadium,"Houston, TX",2002,retractable,"NRG Pkwy, Houston, TX 77054",dome,Grass,,,University of Phoenix Stadium,Carolina Panthers
+Oakland Coliseum,"Oakland, CA",1966,outdoor,"7000 Coliseum Way, Oakland, CA 94621",moderate,Grass,,,New Era Field,Cincinnati Bengals
+Paul Brown Stadium,"Cincinnati, OH",2000,outdoor,"1 Paul Brown Stadium, Cincinnati, OH 45202",cold,FieldTurf,32.86667,-117.13333,FirstEnergy Stadium,Los Angeles Rams
+Pitt Stadium,"Pittsburgh, PA",,outdoor,"Terrace Street, Pittsburgh, PA 15260",cold,Grass,42.889,-78.8901,AT&T Stadium,Miami Dolphins
+Pro Player Stadium,"Miami, FL",,,,,,29.63806,-95.28194,Lambeau Field,Denver Broncos
+Qualcomm Stadium,"San Diego, CA",1967,outdoor,"9449 Friars Rd, San Diego, CA 92108",warm,Grass,,,Lucas Oil Stadium,Atlanta Falcons
+Ralph Wilson Stadium,"Orchard Park, NY",1973,outdoor,"1 Bills Dr, Orchard Park, NY 14127",cold,FieldTurf,,,Arrowhead Stadium,Baltimore Ravens
+Reliant Stadium,"Houston, TX",2002,retractable,"NRG Pkwy, Houston, TX 77054",dome,Grass,,,StubHub Center,Houston Texans
+Rice Stadium,"Houston, TX",,outdoor,"2176 University Boulevard, Houston, TX 77251",warm,Grass,,,U.S. Bank Stadium,Oakland Raiders
+Rogers Centre,"Toronto, Canada",,indoor,"1 Blue Jays Way, Toronto, ON M5V 1J1, Canada",dome,,41.8558,-87.6094,Gillette Stadium,New York Jets
+Rose Bowl,"Pasadena, CA",,outdoor,,moderate,Grass,39.7633,-104.8694,Lincoln Financial Field,Detroit Lions
+Shea Stadium,"Flushing, NY",,outdoor,"123-01 Roosevelt Avenue, Flushing, NY 11368",cold,Grass,,,Levi's Stadium,Pittsburgh Steelers
+Soldier Field,"Chicago, IL",1926,outdoor,"1410 Museum Campus Dr, Chicago, IL 60605",cold,Grass,33.938,-118.3888,CenturyLink Field,New Orleans Saints
+Sports Authority Field at Mile High,"Denver, CO",2001,outdoor,"1701 Bryant St, Denver, CO 80204",cold,Grass,25.7905,-80.3163,Raymond James Stadium,New York Giants
+Stanford Stadium,"Palo Alto, CA",,,,,,,,FedEx Field,Chicago Bears
+StubHub Center,"Los Angeles, CA",2017,outdoor,"18400 S Avalon Blvd, Carson, CA 90746",warm,Grass,,,Lambeau Field,Philadelphia Eagles
+Sun Life Stadium,"Miami Gardens, FL",1987,outdoor,"347 Don Shula Dr, Miami Gardens, FL 33056",warm,,,,University of Phoenix Stadium,Seattle Seahawks
+Tampa Stadium,"Tampa, FL",,,,,,,,Mercedes-Benz Stadium,Tennessee Titans
+Tiger Stadium,"Detroit, MI",,outdoor,"2121 Trumbull Ave., Detroit, MI 48216",cold,Grass,,,M&T Bank Stadium,Cleveland Browns
+Tulane Stadium,"New Orleans, LA",,outdoor,"Willow St. & Audubon Blvd., New Orleans, LA 70118",warm,"Grass, Turf (1971-1974)",33.4552,-111.9316,New Era Field,New England Patriots
+Twickenham Stadium,"London, UK",1909,outdoor,"200 Whitton Road, TW2 7BA, London, UK",moderate,,,,Soldier Field,Minnesota Vikings
+U.S. Bank Stadium,"Minneapolis, MN",2016,indoor,"401 Chicago Ave, Minneapolis, MN 55415",dome,FieldTurf,,,Sports Authority Field at Mile High,Jacksonville Jaguars
+University of Phoenix Stadium,"Glendale, AZ",2006,retractable,"1 Cardinals Dr, Glendale, AZ 85305",dome,Grass,,,Ford Field,Kansas City Chiefs
+Wembley Stadium,"London, UK",2007,outdoor,"Wembley, London HA9 0WS, United Kingdom",moderate,,,,NRG Stadium,Carolina Panthers
+Yale Bowl,"New Haven, CT",,outdoor,"276 Derby Ave, West Haven, CT 06516",cold,Grass,,,Lucas Oil Stadium,Oakland Raiders
+Yankee Stadium,"Bronx, NY",,outdoor,,cold,,,,Los Angeles Memorial Coliseum,Tampa Bay Buccaneers
+,,,,,,,,,Hard Rock Stadium,Los Angeles Chargers
+,,,,,,,,,Mercedes-Benz Superdome,Dallas Cowboys
+,,,,,,,,,MetLife Stadium,Washington Redskins
+,,,,,,,,,Heinz Field,Cincinnati Bengals
+,,,,,,,,,CenturyLink Field,Los Angeles Rams
+,,,,,,,,,Bank of America Stadium,Jacksonville Jaguars
+,,,,,,,,,Paul Brown Stadium,Arizona Cardinals
+,,,,,,,,,AT&T Stadium,Green Bay Packers
+,,,,,,,,,NRG Stadium,Atlanta Falcons
+,,,,,,,,,Arrowhead Stadium,Indianapolis Colts
+,,,,,,,,,StubHub Center,Denver Broncos
+,,,,,,,,,Mercedes-Benz Superdome,Tampa Bay Buccaneers
+,,,,,,,,,MetLife Stadium,Minnesota Vikings
+,,,,,,,,,Tottenham Hotspur Stadium,Chicago Bears
+,,,,,,,,,Lincoln Financial Field,New York Jets
+,,,,,,,,,Heinz Field,Baltimore Ravens
+,,,,,,,,,Nissan Stadium,Buffalo Bills
+,,,,,,,,,FedEx Field,New England Patriots
+,,,,,,,,,Levi's Stadium,Cleveland Browns
+,,,,,,,,,Gillette Stadium,New York Giants
+,,,,,,,,,University of Phoenix Stadium,Atlanta Falcons
+,,,,,,,,,M&T Bank Stadium,Cincinnati Bengals
+,,,,,,,,,FirstEnergy Stadium,Seattle Seahawks
+,,,,,,,,,Sports Authority Field at Mile High,Tennessee Titans
+,,,,,,,,,TIAA Bank Field,New Orleans Saints
+,,,,,,,,,Arrowhead Stadium,Houston Texans
+,,,,,,,,,StubHub Center,Pittsburgh Steelers
+,,,,,,,,,Los Angeles Memorial Coliseum,San Francisco 49ers
+,,,,,,,,,Hard Rock Stadium,Washington Redskins
+,,,,,,,,,U.S. Bank Stadium,Philadelphia Eagles
+,,,,,,,,,MetLife Stadium,Dallas Cowboys
+,,,,,,,,,Tottenham Hotspur Stadium,Carolina Panthers
+,,,,,,,,,Lambeau Field,Detroit Lions
+,,,,,,,,,Sports Authority Field at Mile High,Kansas City Chiefs
+,,,,,,,,,Mercedes-Benz Stadium,Los Angeles Rams
+,,,,,,,,,New Era Field,Miami Dolphins
+,,,,,,,,,Soldier Field,New Orleans Saints
+,,,,,,,,,Paul Brown Stadium,Jacksonville Jaguars
+,,,,,,,,,AT&T Stadium,Philadelphia Eagles
+,,,,,,,,,Ford Field,Minnesota Vikings
+,,,,,,,,,Lambeau Field,Oakland Raiders
+,,,,,,,,,Lucas Oil Stadium,Houston Texans
+,,,,,,,,,MetLife Stadium,Arizona Cardinals
+,,,,,,,,,CenturyLink Field,Baltimore Ravens
+,,,,,,,,,Nissan Stadium,Los Angeles Chargers
+,,,,,,,,,FedEx Field,San Francisco 49ers
+,,,,,,,,,MetLife Stadium,New England Patriots
+,,,,,,,,,U.S. Bank Stadium,Washington Redskins
+,,,,,,,,,Mercedes-Benz Stadium,Seattle Seahawks
+,,,,,,,,,New Era Field,Philadelphia Eagles
+,,,,,,,,,Soldier Field,Los Angeles Chargers
+,,,,,,,,,Ford Field,New York Giants
+,,,,,,,,,NRG Stadium,Oakland Raiders
+,,,,,,,,,Lucas Oil Stadium,Denver Broncos
+,,,,,,,,,TIAA Bank Field,New York Jets
+,,,,,,,,,Arrowhead Stadium,Green Bay Packers
+,,,,,,,,,Wembley Stadium,Cincinnati Bengals
+,,,,,,,,,Gillette Stadium,Cleveland Browns
+,,,,,,,,,Mercedes-Benz Superdome,Arizona Cardinals
+,,,,,,,,,Levi's Stadium,Carolina Panthers
+,,,,,,,,,Nissan Stadium,Tampa Bay Buccaneers
+,,,,,,,,,Heinz Field,Miami Dolphins
+,,,,,,,,,University of Phoenix Stadium,San Francisco 49ers
+,,,,,,,,,M&T Bank Stadium,New England Patriots
+,,,,,,,,,New Era Field,Washington Redskins
+,,,,,,,,,Bank of America Stadium,Tennessee Titans
+,,,,,,,,,Sports Authority Field at Mile High,Cleveland Browns
+,,,,,,,,,Wembley Stadium,Houston Texans
+,,,,,,,,,Arrowhead Stadium,Minnesota Vikings
+,,,,,,,,,StubHub Center,Green Bay Packers
+,,,,,,,,,Hard Rock Stadium,New York Jets
+,,,,,,,,,Oakland Coliseum,Detroit Lions
+,,,,,,,,,Lincoln Financial Field,Chicago Bears
+,,,,,,,,,Heinz Field,Indianapolis Colts
+,,,,,,,,,CenturyLink Field,Tampa Bay Buccaneers
+,,,,,,,,,MetLife Stadium,Dallas Cowboys
+,,,,,,,,,Oakland Coliseum,Los Angeles Chargers
+,,,,,,,,,Soldier Field,Detroit Lions
+,,,,,,,,,Paul Brown Stadium,Baltimore Ravens
+,,,,,,,,,FirstEnergy Stadium,Buffalo Bills
+,,,,,,,,,AT&T Stadium,Minnesota Vikings
+,,,,,,,,,Lambeau Field,Carolina Panthers
+,,,,,,,,,Lucas Oil Stadium,Miami Dolphins
+,,,,,,,,,Mercedes-Benz Superdome,Atlanta Falcons
+,,,,,,,,,MetLife Stadium,New York Giants
+,,,,,,,,,Heinz Field,Los Angeles Rams
+,,,,,,,,,Raymond James Stadium,Arizona Cardinals
+,,,,,,,,,Nissan Stadium,Kansas City Chiefs
+,,,,,,,,,Levi's Stadium,Seattle Seahawks
+,,,,,,,,,FirstEnergy Stadium,Pittsburgh Steelers
+,,,,,,,,,M&T Bank Stadium,Houston Texans
+,,,,,,,,,Bank of America Stadium,Atlanta Falcons
+,,,,,,,,,Ford Field,Dallas Cowboys
+,,,,,,,,,Lucas Oil Stadium,Jacksonville Jaguars
+,,,,,,,,,Los Angeles Memorial Coliseum,Chicago Bears
+,,,,,,,,,Hard Rock Stadium,Buffalo Bills
+,,,,,,,,,U.S. Bank Stadium,Denver Broncos
+,,,,,,,,,Oakland Coliseum,Cincinnati Bengals
+,,,,,,,,,Lincoln Financial Field,New England Patriots
+,,,,,,,,,Levi's Stadium,Arizona Cardinals
+,,,,,,,,,Raymond James Stadium,New Orleans Saints
+,,,,,,,,,FedEx Field,New York Jets
+,,,,,,,,,Estadio Azteca,Kansas City Chiefs
+,,,,,,,,,NRG Stadium,Indianapolis Colts
+,,,,,,,,,Mercedes-Benz Stadium,Tampa Bay Buccaneers
+,,,,,,,,,New Era Field,Denver Broncos
+,,,,,,,,,Soldier Field,New York Giants
+,,,,,,,,,Paul Brown Stadium,Pittsburgh Steelers
+,,,,,,,,,FirstEnergy Stadium,Miami Dolphins
+,,,,,,,,,Gillette Stadium,Dallas Cowboys
+,,,,,,,,,Mercedes-Benz Superdome,Carolina Panthers
+,,,,,,,,,MetLife Stadium,Oakland Raiders
+,,,,,,,,,Lincoln Financial Field,Seattle Seahawks
+,,,,,,,,,Levi's Stadium,Green Bay Packers
+,,,,,,,,,Nissan Stadium,Jacksonville Jaguars
+,,,,,,,,,FedEx Field,Detroit Lions
+,,,,,,,,,Los Angeles Memorial Coliseum,Baltimore Ravens
+,,,,,,,,,Mercedes-Benz Stadium,New Orleans Saints
+,,,,,,,,,AT&T Stadium,Buffalo Bills
+,,,,,,,,,Ford Field,Chicago Bears
+,,,,,,,,,University of Phoenix Stadium,Los Angeles Rams
+,,,,,,,,,M&T Bank Stadium,San Francisco 49ers
+,,,,,,,,,Bank of America Stadium,Washington Redskins
+,,,,,,,,,Paul Brown Stadium,New York Jets
+,,,,,,,,,Sports Authority Field at Mile High,Los Angeles Chargers
+,,,,,,,,,NRG Stadium,New England Patriots
+,,,,,,,,,Lucas Oil Stadium,Tennessee Titans
+,,,,,,,,,TIAA Bank Field,Tampa Bay Buccaneers
+,,,,,,,,,Arrowhead Stadium,Oakland Raiders
+,,,,,,,,,Hard Rock Stadium,Philadelphia Eagles
+,,,,,,,,,MetLife Stadium,Green Bay Packers
+,,,,,,,,,Heinz Field,Cleveland Browns
+,,,,,,,,,CenturyLink Field,Minnesota Vikings
+,,,,,,,,,Soldier Field,Dallas Cowboys
+,,,,,,,,,University of Phoenix Stadium,Pittsburgh Steelers
+,,,,,,,,,Mercedes-Benz Stadium,Carolina Panthers
+,,,,,,,,,New Era Field,Baltimore Ravens
+,,,,,,,,,FirstEnergy Stadium,Cincinnati Bengals
+,,,,,,,,,Lambeau Field,Washington Redskins
+,,,,,,,,,NRG Stadium,Denver Broncos
+,,,,,,,,,TIAA Bank Field,Los Angeles Chargers
+,,,,,,,,,Los Angeles Memorial Coliseum,Seattle Seahawks
+,,,,,,,,,U.S. Bank Stadium,Detroit Lions
+,,,,,,,,,Gillette Stadium,Kansas City Chiefs
+,,,,,,,,,Mercedes-Benz Superdome,San Francisco 49ers
+,,,,,,,,,MetLife Stadium,Miami Dolphins
+,,,,,,,,,Oakland Coliseum,Tennessee Titans
+,,,,,,,,,Raymond James Stadium,Indianapolis Colts
+,,,,,,,,,Lincoln Financial Field,New York Giants
+,,,,,,,,,M&T Bank Stadium,New York Jets
+,,,,,,,,,University of Phoenix Stadium,Cleveland Browns
+,,,,,,,,,Bank of America Stadium,Seattle Seahawks
+,,,,,,,,,Paul Brown Stadium,New England Patriots
+,,,,,,,,,AT&T Stadium,Los Angeles Rams
+,,,,,,,,,Ford Field,Tampa Bay Buccaneers
+,,,,,,,,,Lambeau Field,Chicago Bears
+,,,,,,,,,Arrowhead Stadium,Denver Broncos
+,,,,,,,,,StubHub Center,Minnesota Vikings
+,,,,,,,,,MetLife Stadium,Miami Dolphins
+,,,,,,,,,Oakland Coliseum,Jacksonville Jaguars
+,,,,,,,,,Heinz Field,Buffalo Bills
+,,,,,,,,,Levi's Stadium,Atlanta Falcons
+,,,,,,,,,Nissan Stadium,Houston Texans
+,,,,,,,,,FedEx Field,Philadelphia Eagles
+,,,,,,,,,Mercedes-Benz Superdome,Indianapolis Colts
+,,,,,,,,,Gillette Stadium,Buffalo Bills
+,,,,,,,,,Levi's Stadium,Los Angeles Rams
+,,,,,,,,,Raymond James Stadium,Houston Texans
+,,,,,,,,,Mercedes-Benz Stadium,Jacksonville Jaguars
+,,,,,,,,,Soldier Field,Kansas City Chiefs
+,,,,,,,,,FirstEnergy Stadium,Baltimore Ravens
+,,,,,,,,,Sports Authority Field at Mile High,Detroit Lions
+,,,,,,,,,Lucas Oil Stadium,Carolina Panthers
+,,,,,,,,,StubHub Center,Oakland Raiders
+,,,,,,,,,Hard Rock Stadium,Cincinnati Bengals
+,,,,,,,,,MetLife Stadium,Pittsburgh Steelers
+,,,,,,,,,Lincoln Financial Field,Dallas Cowboys
+,,,,,,,,,CenturyLink Field,Arizona Cardinals
+,,,,,,,,,Nissan Stadium,New Orleans Saints
+,,,,,,,,,FedEx Field,New York Giants
+,,,,,,,,,U.S. Bank Stadium,Green Bay Packers
+,,,,,,,,,M&T Bank Stadium,Pittsburgh Steelers
+,,,,,,,,,New Era Field,New York Jets
+,,,,,,,,,Bank of America Stadium,New Orleans Saints
+,,,,,,,,,Paul Brown Stadium,Cleveland Browns
+,,,,,,,,,AT&T Stadium,Washington Redskins
+,,,,,,,,,Sports Authority Field at Mile High,Oakland Raiders
+,,,,,,,,,Ford Field,Green Bay Packers
+,,,,,,,,,NRG Stadium,Tennessee Titans
+,,,,,,,,,TIAA Bank Field,Indianapolis Colts
+,,,,,,,,,Arrowhead Stadium,Los Angeles Chargers
+,,,,,,,,,Los Angeles Memorial Coliseum,Arizona Cardinals
+,,,,,,,,,U.S. Bank Stadium,Chicago Bears
+,,,,,,,,,Gillette Stadium,Miami Dolphins
+,,,,,,,,,MetLife Stadium,Philadelphia Eagles
+,,,,,,,,,CenturyLink Field,San Francisco 49ers
+,,,,,,,,,Raymond James Stadium,Atlanta Falcons
+,,,,,,,,,NRG Stadium,Buffalo Bills
+,,,,,,,,,Gillette Stadium,Tennessee Titans
+,,,,,,,,,Mercedes-Benz Superdome,Minnesota Vikings
+,,,,,,,,,Lincoln Financial Field,Seattle Seahawks
+,,,,,,,,,M&T Bank Stadium,Tennessee Titans
+,,,,,,,,,Levi's Stadium,Minnesota Vikings
+,,,,,,,,,Lambeau Field,Seattle Seahawks
+,,,,,,,,,Arrowhead Stadium,Houston Texans
+,,,,,,,,,Arrowhead Stadium,Tennessee Titans
+,,,,,,,,,Levi's Stadium,Green Bay Packers
+,,,,,,,,,Hard Rock Stadium,San Francisco 49ers
