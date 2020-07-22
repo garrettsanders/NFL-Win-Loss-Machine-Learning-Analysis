@@ -1,0 +1,513 @@
+Player,Week,Opponent,Win/Loss,Field Goals Made,Field Goals Attempted,FG%,Extra Point Made,Extra Point Attempted,FF Points
+ Harrison Butker,1,at JAC,W 40-26,4,4,100.00%,4,4,16
+ Harrison Butker,2,at LV,W 28-10,0,0,0.00%,4,4,4
+ Harrison Butker,3,BAL,W 33-28,2,2,100.00%,3,4,9
+ Harrison Butker,4,at DET,W 34-30,2,3,66.70%,4,4,10
+ Harrison Butker,5,IND,L 13-19,2,2,100.00%,1,1,7
+ Harrison Butker,6,HOU,L 24-31,1,2,50.00%,3,3,6
+ Harrison Butker,7,at DEN,W 30-6,3,3,100.00%,3,3,12
+ Harrison Butker,8,GB,L 24-31,1,2,50.00%,3,3,6
+ Harrison Butker,9,MIN,W 26-23,4,4,100.00%,2,2,14
+ Harrison Butker,10,at TEN,L 32-35,4,5,80.00%,2,3,14
+ Harrison Butker,11,at LAC,W 24-17,1,1,100.00%,3,3,6
+ Harrison Butker,13,LV,W 40-9,1,1,100.00%,5,5,8
+ Harrison Butker,14,at NE,W 23-16,3,3,100.00%,2,2,11
+ Harrison Butker,15,DEN,W 23-3,3,3,100.00%,0,0,9
+ Harrison Butker,16,at CHI,W 26-3,2,2,100.00%,2,3,8
+ Harrison Butker,17,LAC,W 31-21,1,1,100.00%,4,4,7
+Wil Lutz,1,HOU,W 30-28,3,4,75.00%,3,3,12
+ Wil Lutz,2,at LAR,L 9-27,3,3,100.00%,0,0,9
+ Wil Lutz,3,at SEA,W 33-27,0,0,0.00%,3,4,3
+ Wil Lutz,4,DAL,W 12-10,4,4,100.00%,0,0,12
+ Wil Lutz,5,TB,W 31-24,1,1,100.00%,4,4,7
+ Wil Lutz,6,at JAC,W 13-6,2,2,100.00%,1,1,7
+ Wil Lutz,7,at CHI,W 36-25,2,4,50.00%,4,4,10
+ Wil Lutz,8,ARI,W 31-9,1,2,50.00%,4,4,7
+ Wil Lutz,10,ATL,L 9-26,3,3,100.00%,0,0,9
+ Wil Lutz,11,at TB,W 34-17,2,2,100.00%,4,4,10
+ Wil Lutz,12,CAR,W 34-31,2,2,100.00%,4,4,10
+ Wil Lutz,13,at ATL,W 26-18,4,4,100.00%,2,2,14
+ Wil Lutz,14,SF,L 46-48,2,2,100.00%,4,4,10
+ Wil Lutz,15,IND,W 34-7,2,2,100.00%,4,4,10
+ Wil Lutz,16,at TEN,W 38-28,1,1,100.00%,5,5,8
+ Wil Lutz,17,at CAR,W 42-10,0,0,0.00%,6,6,6
+ Justin Tucker,1,at MIA,W 59-10,1,1,100.00%,8,8,11
+ Justin Tucker,2,ARI,W 23-17,3,3,100.00%,2,2,11
+ Justin Tucker,3,at KC,L 28-33,1,1,100.00%,1,1,4
+ Justin Tucker,4,CLE,L 25-40,1,1,100.00%,2,2,5
+ Justin Tucker,5,at PIT,W 26-23,4,4,100.00%,2,2,14
+ Justin Tucker,6,CIN,W 23-17,3,3,100.00%,2,2,11
+ Justin Tucker,7,at SEA,W 30-16,3,3,100.00%,3,3,12
+ Justin Tucker,9,NE,W 37-20,1,1,100.00%,4,5,7
+ Justin Tucker,10,at CIN,W 49-13,0,0,0.00%,7,7,7
+ Justin Tucker,11,HOU,W 41-7,2,3,66.70%,5,5,11
+ Justin Tucker,12,at LAR,W 45-6,1,1,100.00%,6,6,9
+ Justin Tucker,13,SF,W 20-17,2,2,100.00%,2,2,8
+ Justin Tucker,14,at BUF,W 24-17,1,1,100.00%,3,3,6
+ Justin Tucker,15,NYJ,W 42-21,0,0,0.00%,4,5,4
+ Justin Tucker,16,at CLE,W 31-15,1,1,100.00%,4,4,7
+ Justin Tucker,17,PIT,W 28-10,4,4,100.00%,2,2,14
+Robbie Gould,1,at TB,W 31-17,3,4,75.00%,2,2,11
+ Robbie Gould,2,at CIN,W 41-17,2,3,66.70%,5,5,11
+ Robbie Gould,3,PIT,W 24-20,1,1,100.00%,3,3,6
+ Robbie Gould,5,CLE,W 31-3,1,4,25.00%,4,4,7
+ Robbie Gould,6,at LAR,W 20-7,2,3,66.70%,2,2,8
+ Robbie Gould,7,at WAS,W 9-0,3,4,75.00%,0,0,9
+ Robbie Gould,8,CAR,W 51-13,1,1,100.00%,6,6,9
+ Robbie Gould,9,at ARI,W 28-25,0,0,0.00%,4,4,4
+ Chase McLaughlin,10,SEA,L 24-27,3,4,75.00%,1,1,10
+ Chase McLaughlin,11,ARI,W 36-26,1,1,100.00%,3,3,6
+ Chase McLaughlin,12,GB,W 37-8,3,3,100.00%,4,4,13
+ Robbie Gould,13,at BAL,L 17-20,1,2,50.00%,2,2,5
+ Robbie Gould,14,at NO,W 48-46,2,2,100.00%,6,6,12
+ Robbie Gould,15,ATL,L 22-29,3,3,100.00%,1,2,10
+ Robbie Gould,16,LAR,W 34-31,2,2,100.00%,4,4,10
+ Robbie Gould,17,at SEA,W 26-21,2,2,100.00%,2,2,8
+Brett Maher,1,NYG,W 35-17,0,0,0.00%,5,5,5
+ Brett Maher,2,at WAS,W 31-21,1,1,100.00%,4,4,7
+ Brett Maher,3,MIA,W 31-6,1,2,50.00%,4,4,7
+ Brett Maher,4,at NO,L 10-12,1,1,100.00%,1,1,4
+ Brett Maher,5,GB,L 24-34,1,3,33.30%,3,3,6
+ Brett Maher,6,at NYJ,L 22-24,3,4,75.00%,1,1,10
+ Brett Maher,7,PHI,W 37-10,3,3,100.00%,4,4,13
+ Brett Maher,9,at NYG,W 37-18,3,4,75.00%,4,4,13
+ Brett Maher,10,MIN,L 24-28,1,2,50.00%,3,3,6
+ Brett Maher,11,at DET,W 35-27,2,2,100.00%,3,3,9
+ Brett Maher,12,at NE,L 9-13,3,4,75.00%,0,0,9
+ Brett Maher,13,BUF,L 15-26,0,2,0.00%,1,1,1
+ Brett Maher,14,at CHI,L 24-31,1,2,50.00%,3,3,6
+ Kai Forbath,15,LAR,W 44-21,3,3,100.00%,5,5,14
+ Kai Forbath,16,at PHI,L 9-17,3,3,100.00%,0,0,9
+ Kai Forbath,17,WAS,W 47-16,4,4,100.00%,5,5,17
+Zane Gonzalez,1,DET,T,4,4,100.00%,1,1,13
+ Zane Gonzalez,2,at BAL,L 17-23,3,3,100.00%,0,0,9
+ Zane Gonzalez,3,CAR,L 20-38,2,2,100.00%,2,2,8
+ Zane Gonzalez,4,SEA,L 10-27,1,3,33.30%,1,1,4
+ Zane Gonzalez,5,at CIN,W 26-23,4,5,80.00%,2,2,14
+ Zane Gonzalez,6,ATL,W 34-33,2,2,100.00%,4,4,10
+ Zane Gonzalez,7,at NYG,W 27-21,2,2,100.00%,3,3,9
+ Zane Gonzalez,8,at NO,L 9-31,3,3,100.00%,0,0,9
+ Zane Gonzalez,9,SF,L 25-28,1,1,100.00%,2,2,5
+ Zane Gonzalez,10,at TB,L 27-30,2,2,100.00%,3,3,9
+ Zane Gonzalez,11,at SF,L 26-36,2,2,100.00%,2,3,8
+ Zane Gonzalez,13,LAR,L 7-34,0,0,0.00%,1,1,1
+ Zane Gonzalez,14,PIT,L 17-23,1,1,100.00%,2,2,5
+ Zane Gonzalez,15,CLE,W 38-24,1,1,100.00%,5,5,8
+ Zane Gonzalez,16,at SEA,W 27-13,2,3,66.70%,3,3,9
+ Zane Gonzalez,17,at LAR,L 24-31,1,1,100.00%,3,3,6
+Matt Bryant,1,at MIN,L 12-28,0,0,0.00%,0,0,0
+ Matt Bryant,2,PHI,W 24-20,1,2,50.00%,3,3,6
+ Matt Bryant,3,at IND,L 24-27,1,1,100.00%,3,3,6
+ Matt Bryant,4,TEN,L 10-24,1,2,50.00%,1,1,4
+ Matt Bryant,5,at HOU,L 32-53,1,1,100.00%,3,3,6
+ Matt Bryant,6,at ARI,L 33-34,2,2,100.00%,3,4,9
+ Matt Bryant,7,LAR,L 10-37,1,2,50.00%,1,1,4
+ Matt Bryant,8,SEA,L 20-27,2,4,50.00%,0,0,6
+ Younghoe Koo,10,at NO,W 26-9,4,4,100.00%,2,2,14
+ Younghoe Koo,11,at CAR,W 29-3,3,4,75.00%,2,2,11
+ Younghoe Koo,12,TB,L 22-35,3,3,100.00%,1,1,10
+ Younghoe Koo,13,NO,L 18-26,2,3,66.70%,0,1,6
+ Younghoe Koo,14,CAR,W 40-20,4,4,100.00%,4,4,16
+ Younghoe Koo,15,at SF,W 29-22,1,1,100.00%,2,2,5
+ Younghoe Koo,16,JAC,W 24-12,1,2,50.00%,3,3,6
+ Younghoe Koo,17,at TB,W 28-22,5,5,100.00%,1,1,16
+Matt Gay,1,SF,L 17-31,1,1,100.00%,2,2,5
+ Matt Gay,2,at CAR,W 20-14,2,3,66.70%,2,2,8
+ Matt Gay,3,NYG,L 31-32,4,5,80.00%,1,3,13
+ Matt Gay,4,at LAR,W 55-40,2,2,100.00%,7,7,13
+ Matt Gay,5,at NO,L 24-31,1,1,100.00%,3,3,6
+ Matt Gay,6,CAR,L 26-37,1,1,100.00%,1,1,4
+ Matt Gay,8,at TEN,L 23-27,3,3,100.00%,0,0,9
+ Matt Gay,9,at SEA,L 34-40,2,3,66.70%,4,4,10
+ Matt Gay,10,ARI,W 30-27,3,3,100.00%,3,3,12
+ Matt Gay,11,NO,L 17-34,1,1,100.00%,2,2,5
+ Matt Gay,12,at ATL,W 35-22,1,1,100.00%,2,5,5
+ Matt Gay,13,at JAC,W 28-11,2,2,100.00%,2,2,8
+ Matt Gay,14,IND,W 38-35,1,1,100.00%,5,5,8
+ Matt Gay,15,at DET,W 38-17,1,2,50.00%,5,5,8
+ Matt Gay,16,HOU,L 20-23,2,3,66.70%,2,2,8
+ Matt Gay,17,ATL,L 22-28,0,3,0.00%,2,2,2
+ Dan Bailey,1,ATL,W 28-12,0,0,0.00%,4,4,4
+ Dan Bailey,2,at GB,L 16-21,1,2,50.00%,1,2,4
+ Dan Bailey,3,LV,W 34-14,2,2,100.00%,4,4,10
+ Dan Bailey,4,at CHI,L 6-16,0,0,0.00%,0,0,0
+ Dan Bailey,5,at NYG,W 28-10,4,4,100.00%,2,2,14
+ Dan Bailey,6,PHI,W 38-20,1,1,100.00%,5,5,8
+ Dan Bailey,7,at DET,W 42-30,0,1,0.00%,6,6,6
+ Dan Bailey,8,WAS,W 19-9,4,4,100.00%,1,1,13
+ Dan Bailey,9,at KC,L 23-26,1,1,100.00%,2,3,5
+ Dan Bailey,10,at DAL,W 28-24,2,2,100.00%,2,2,8
+ Dan Bailey,11,DEN,W 27-23,0,0,0.00%,3,3,3
+ Dan Bailey,13,at SEA,L 30-37,1,1,100.00%,3,4,6
+ Dan Bailey,14,DET,W 20-7,2,2,100.00%,2,2,8
+ Dan Bailey,15,at LAC,W 39-10,4,4,100.00%,3,4,15
+ Dan Bailey,16,GB,L 10-23,1,1,100.00%,1,1,4
+ Dan Bailey,17,CHI,L 19-21,4,4,100.00%,1,1,13
+ Stephen Gostkowski,1,PIT,W 33-3,4,4,100.00%,3,3,15
+ Stephen Gostkowski,2,at MIA,W 43-0,1,2,50.00%,4,6,7
+ Stephen Gostkowski,3,NYJ,W 30-14,1,1,100.00%,3,4,6
+ Stephen Gostkowski,4,at BUF,W 16-10,1,1,100.00%,1,2,4
+ Mike Nugent,5,at WAS,W 33-7,2,2,100.00%,3,4,9
+ Mike Nugent,6,NYG,W 35-14,0,1,0.00%,5,5,5
+ Mike Nugent,7,at NYJ,W 33-0,1,1,100.00%,4,4,7
+ Mike Nugent,8,CLE,W 27-13,2,4,50.00%,3,3,9
+ Nick Folk,9,at BAL,L 20-37,2,2,100.00%,2,2,8
+ Nick Folk,11,at PHI,W 17-10,3,3,100.00%,0,0,9
+ Nick Folk,12,DAL,W 13-9,2,4,50.00%,1,1,7
+ Kai Forbath,13,at HOU,L 22-28,1,1,100.00%,1,2,4
+ Nick Folk,14,KC,L 16-23,1,2,50.00%,1,1,4
+ Nick Folk,15,at CIN,W 34-13,2,2,100.00%,4,4,10
+ Nick Folk,16,BUF,W 24-17,3,3,100.00%,1,1,10
+ Nick Folk,17,MIA,L 24-27,1,1,100.00%,3,3,6
+ Josh Lambo,1,KC,L 26-40,2,2,100.00%,2,2,8
+ Josh Lambo,2,at HOU,L 12-13,2,2,100.00%,0,0,6
+ Josh Lambo,3,TEN,W 20-7,2,2,100.00%,2,2,8
+ Josh Lambo,4,at DEN,W 26-24,4,4,100.00%,2,2,14
+ Josh Lambo,5,at CAR,L 27-34,2,2,100.00%,3,3,9
+ Josh Lambo,6,NO,L 6-13,2,2,100.00%,0,0,6
+ Josh Lambo,7,at CIN,W 27-17,4,4,100.00%,1,1,13
+ Josh Lambo,8,NYJ,W 29-15,3,3,100.00%,2,3,11
+ Josh Lambo,9,HOU,L 3-26,1,1,100.00%,0,0,3
+ Josh Lambo,11,at IND,L 13-33,0,1,0.00%,1,1,1
+ Josh Lambo,12,at TEN,L 20-42,2,2,100.00%,0,0,6
+ Josh Lambo,13,TB,L 11-28,1,1,100.00%,0,0,3
+ Josh Lambo,14,LAC,L 10-45,1,1,100.00%,1,1,4
+ Josh Lambo,15,at LV,W 20-16,2,2,100.00%,2,2,8
+ Josh Lambo,16,at ATL,L 12-24,2,2,100.00%,0,0,6
+ Josh Lambo,17,IND,W 38-20,3,3,100.00%,3,3,12
+ Chris Boswell,1,at NE,L 3-33,1,1,100.00%,0,0,3
+ Chris Boswell,2,SEA,L 26-28,2,2,100.00%,2,2,8
+ Chris Boswell,3,at SF,L 20-24,2,2,100.00%,2,2,8
+ Chris Boswell,4,CIN,W 27-3,2,2,100.00%,3,3,9
+ Chris Boswell,5,BAL,L 23-26,3,3,100.00%,2,2,11
+ Chris Boswell,6,at LAC,W 24-17,1,1,100.00%,3,3,6
+ Chris Boswell,8,MIA,W 27-14,2,3,66.70%,3,3,9
+ Chris Boswell,9,IND,W 26-24,4,4,100.00%,2,2,14
+ Chris Boswell,10,LAR,W 17-12,1,1,100.00%,2,2,5
+ Chris Boswell,11,at CLE,L 7-21,0,1,0.00%,1,1,1
+ Chris Boswell,12,at CIN,W 16-10,3,3,100.00%,1,1,10
+ Chris Boswell,13,CLE,W 20-13,2,2,100.00%,2,2,8
+ Chris Boswell,14,at ARI,W 23-17,3,3,100.00%,2,2,11
+ Chris Boswell,15,BUF,L 10-17,1,1,100.00%,1,1,4
+ Chris Boswell,16,at NYJ,L 10-16,1,1,100.00%,1,1,4
+ Chris Boswell,17,at BAL,L 10-28,1,1,100.00%,1,1,4
+Greg Zuerlein,1,at CAR,W 30-27,3,4,75.00%,3,3,12
+ Greg Zuerlein,2,NO,W 27-9,2,2,100.00%,3,3,9
+ Greg Zuerlein,3,at CLE,W 20-13,2,3,66.70%,2,2,8
+ Greg Zuerlein,4,TB,L 40-55,2,2,100.00%,4,4,10
+ Greg Zuerlein,5,at SEA,L 29-30,3,4,75.00%,2,2,11
+ Greg Zuerlein,6,SF,L 7-20,0,0,0.00%,1,1,1
+ Greg Zuerlein,7,at ATL,W 37-10,3,4,75.00%,4,4,13
+ Greg Zuerlein,8,CIN,W 24-10,1,1,100.00%,3,3,6
+ Greg Zuerlein,10,at PIT,L 12-17,1,2,50.00%,1,1,4
+ Greg Zuerlein,11,CHI,W 17-7,1,1,100.00%,2,2,5
+ Greg Zuerlein,12,BAL,L 6-45,2,2,100.00%,0,0,6
+ Greg Zuerlein,13,at ARI,W 34-7,2,3,66.70%,4,4,10
+ Greg Zuerlein,14,SEA,W 28-12,0,1,0.00%,4,4,4
+ Greg Zuerlein,15,at DAL,L 21-44,0,0,0.00%,1,1,1
+ Greg Zuerlein,16,at SF,L 31-34,1,2,50.00%,4,4,7
+ Greg Zuerlein,17,ARI,W 31-24,1,2,50.00%,4,4,7
+Ty Long,1,IND,W 30-24,1,1,100.00%,3,3,6
+ Ty Long,2,at DET,L 10-13,1,3,33.30%,1,1,4
+ Ty Long,3,HOU,L 20-27,2,2,100.00%,2,2,8
+ Ty Long,4,at MIA,W 30-10,3,3,100.00%,3,3,12
+ Chase McLaughlin,5,DEN,L 13-20,2,3,66.70%,1,1,7
+ Chase McLaughlin,6,PIT,L 17-24,1,2,50.00%,2,2,5
+ Chase McLaughlin,7,at TEN,L 20-23,2,2,100.00%,2,2,8
+ Chase McLaughlin,8,at CHI,W 17-16,1,2,50.00%,2,2,5
+ Mike Badgley,9,GB,W 26-11,4,5,80.00%,2,2,14
+ Mike Badgley,10,at LV,L 24-26,1,1,100.00%,3,3,6
+ Mike Badgley,11,KC,L 17-24,3,4,75.00%,0,0,9
+ Mike Badgley,13,at DEN,L 20-23,2,3,66.70%,2,2,8
+ Mike Badgley,14,at JAC,W 45-10,1,1,100.00%,6,6,9
+ Mike Badgley,15,MIN,L 10-39,1,1,100.00%,1,1,4
+ Mike Badgley,16,LV,L 17-24,1,1,100.00%,2,2,5
+ Mike Badgley,17,at KC,L 21-31,0,0,0.00%,3,3,3
+Matt Prater,1,at ARI,T,2,2,100.00%,3,3,9
+ Matt Prater,2,LAC,W 13-10,0,1,0.00%,1,2,1
+ Matt Prater,3,at PHI,W 27-24,2,3,66.70%,3,3,9
+ Matt Prater,4,KC,L 30-34,3,3,100.00%,3,3,12
+ Matt Prater,6,at GB,L 22-23,5,5,100.00%,1,1,16
+ Matt Prater,7,MIN,L 30-42,1,1,100.00%,3,3,6
+ Matt Prater,8,NYG,W 31-26,1,2,50.00%,4,4,7
+ Matt Prater,9,at LV,L 24-31,1,1,100.00%,3,3,6
+ Matt Prater,10,at CHI,L 13-20,2,2,100.00%,1,1,7
+ Matt Prater,11,DAL,L 27-35,0,0,0.00%,3,3,3
+ Matt Prater,12,at WAS,L 16-19,3,4,75.00%,1,1,10
+ Matt Prater,13,CHI,L 20-24,2,2,100.00%,2,2,8
+ Matt Prater,14,at MIN,L 7-20,0,1,0.00%,1,1,1
+ Matt Prater,15,TB,L 17-38,1,1,100.00%,2,2,5
+ Matt Prater,16,at DEN,L 17-27,1,1,100.00%,2,2,5
+ Matt Prater,17,GB,L 20-23,2,2,100.00%,2,2,8
+ Brandon McManus,1,at LV,L 16-24,3,4,75.00%,1,1,10
+ Brandon McManus,2,CHI,L 14-16,2,2,100.00%,0,0,6
+ Brandon McManus,3,at GB,L 16-27,1,1,100.00%,1,2,4
+ Brandon McManus,4,JAC,L 24-26,1,1,100.00%,3,3,6
+ Brandon McManus,5,at LAC,W 20-13,2,3,66.70%,2,2,8
+ Brandon McManus,6,TEN,W 16-0,3,3,100.00%,1,1,10
+ Brandon McManus,7,KC,L 6-30,0,1,0.00%,0,0,0
+ Brandon McManus,8,at IND,L 13-15,2,2,100.00%,1,1,7
+ Brandon McManus,9,CLE,W 24-19,1,1,100.00%,3,3,6
+ Brandon McManus,11,at MIN,L 23-27,3,4,75.00%,2,2,11
+ Brandon McManus,12,at BUF,L 3-20,1,1,100.00%,0,0,3
+ Brandon McManus,13,LAC,W 23-20,3,3,100.00%,2,2,11
+ Brandon McManus,14,at HOU,W 38-24,1,1,100.00%,5,5,8
+ Brandon McManus,15,at KC,L 3-23,1,1,100.00%,0,0,3
+ Brandon McManus,16,DET,W 27-17,2,2,100.00%,3,3,9
+ Brandon McManus,17,LV,W 16-15,3,4,75.00%,1,1,10
+ Jason Myers,1,CIN,W 21-20,0,0,0.00%,3,3,3
+ Jason Myers,2,at PIT,W 28-26,0,1,0.00%,4,4,4
+ Jason Myers,3,NO,L 27-33,0,0,0.00%,3,3,3
+ Jason Myers,4,at ARI,W 27-10,2,2,100.00%,3,3,9
+ Jason Myers,5,LAR,W 30-29,1,2,50.00%,3,3,6
+ Jason Myers,6,at CLE,W 32-28,2,2,100.00%,2,3,8
+ Jason Myers,7,BAL,L 16-30,3,4,75.00%,1,1,10
+ Jason Myers,8,at ATL,W 27-20,2,2,100.00%,3,3,9
+ Jason Myers,9,TB,W 40-34,2,4,50.00%,2,3,8
+ Jason Myers,10,at SF,W 27-24,2,2,100.00%,3,3,9
+ Jason Myers,12,at PHI,W 17-9,1,1,100.00%,2,2,5
+ Jason Myers,13,MIN,W 37-30,3,3,100.00%,4,4,13
+ Jason Myers,14,at LAR,L 12-28,2,2,100.00%,0,1,6
+ Jason Myers,15,at CAR,W 30-24,1,1,100.00%,3,4,6
+ Jason Myers,16,ARI,L 13-27,2,2,100.00%,1,1,7
+ Jason Myers,17,SF,L 21-26,0,0,0.00%,3,3,3
+ Joey Slye,1,LAR,L 27-30,2,3,66.70%,3,3,9
+ Joey Slye,2,TB,L 14-20,4,4,100.00%,0,0,12
+ Joey Slye,3,at ARI,W 38-20,1,1,100.00%,5,5,8
+ Joey Slye,4,at HOU,W 16-10,3,3,100.00%,1,1,10
+ Joey Slye,5,JAC,W 34-27,0,2,0.00%,4,5,4
+ Joey Slye,6,at TB,W 37-26,3,5,60.00%,4,4,13
+ Joey Slye,8,at SF,L 13-51,1,1,100.00%,0,0,3
+ Joey Slye,9,TEN,W 30-20,1,2,50.00%,3,4,6
+ Joey Slye,10,at GB,L 16-24,1,1,100.00%,1,1,4
+ Joey Slye,11,ATL,L 3-29,1,1,100.00%,0,0,3
+ Joey Slye,12,at NO,L 31-34,2,3,66.70%,1,3,7
+ Joey Slye,13,WAS,L 21-29,0,0,0.00%,3,3,3
+ Joey Slye,14,at ATL,L 20-40,2,2,100.00%,2,2,8
+ Joey Slye,15,SEA,L 24-30,1,1,100.00%,3,3,6
+ Joey Slye,16,at IND,L 6-38,2,2,100.00%,0,0,6
+ Joey Slye,17,NO,L 10-42,1,1,100.00%,1,1,4
+ Mason Crosby,1,at CHI,W 10-3,1,1,100.00%,1,1,4
+ Mason Crosby,2,MIN,W 21-16,0,0,0.00%,3,3,3
+ Mason Crosby,3,DEN,W 27-16,2,3,66.70%,3,3,9
+ Mason Crosby,4,PHI,L 27-34,2,2,100.00%,3,3,9
+ Mason Crosby,5,at DAL,W 34-24,2,2,100.00%,4,4,10
+ Mason Crosby,6,DET,W 23-22,3,3,100.00%,2,2,11
+ Mason Crosby,7,LV,W 42-24,0,0,0.00%,6,6,6
+ Mason Crosby,8,at KC,W 31-24,1,1,100.00%,4,4,7
+ Mason Crosby,9,at LAC,L 11-26,1,1,100.00%,0,0,3
+ Mason Crosby,10,CAR,W 24-16,1,1,100.00%,3,3,6
+ Mason Crosby,12,at SF,L 8-37,0,0,0.00%,0,0,0
+ Mason Crosby,13,at NYG,W 31-13,1,1,100.00%,4,4,7
+ Mason Crosby,14,WAS,W 20-15,2,2,100.00%,2,2,8
+ Mason Crosby,15,CHI,W 21-13,0,0,0.00%,3,3,3
+ Mason Crosby,16,at MIN,W 23-10,3,3,100.00%,0,1,9
+ Mason Crosby,17,at DET,W 23-20,3,4,75.00%,2,2,11
+Austin Seibert,1,TEN,L 13-43,0,0,0.00%,1,2,1
+ Austin Seibert,2,at NYJ,W 23-3,3,3,100.00%,2,2,11
+ Austin Seibert,3,LAR,L 13-20,2,2,100.00%,1,1,7
+ Austin Seibert,4,at BAL,W 40-25,2,2,100.00%,4,4,10
+ Austin Seibert,5,at SF,L 3-31,1,1,100.00%,0,0,3
+ Austin Seibert,6,SEA,L 28-32,0,0,0.00%,2,3,2
+ Austin Seibert,8,at NE,L 13-27,2,2,100.00%,1,1,7
+ Austin Seibert,9,at DEN,L 19-24,4,4,100.00%,1,1,13
+ Austin Seibert,10,BUF,W 19-16,2,2,100.00%,1,2,7
+ Austin Seibert,11,PIT,W 21-7,0,2,0.00%,3,3,3
+ Austin Seibert,12,MIA,W 41-24,2,3,66.70%,5,5,11
+ Austin Seibert,13,at PIT,L 13-20,2,2,100.00%,1,1,7
+ Austin Seibert,14,CIN,W 27-19,2,2,100.00%,3,3,9
+ Austin Seibert,15,at ARI,L 24-38,1,2,50.00%,3,3,6
+ Austin Seibert,16,BAL,L 15-31,1,1,100.00%,0,1,3
+ Austin Seibert,17,at CIN,L 23-33,1,1,100.00%,2,3,5
+ Randy Bullock,1,at SEA,L 20-21,2,3,66.70%,2,2,8
+ Randy Bullock,2,SF,L 17-41,1,2,50.00%,2,2,5
+ Randy Bullock,3,at BUF,L 17-21,1,1,100.00%,2,2,5
+ Randy Bullock,4,at PIT,L 3-27,1,1,100.00%,0,0,3
+ Randy Bullock,5,ARI,L 23-26,3,3,100.00%,2,2,11
+ Randy Bullock,6,at BAL,L 17-23,1,1,100.00%,2,2,5
+ Randy Bullock,7,JAC,L 17-27,1,1,100.00%,2,2,5
+ Randy Bullock,8,at LAR,L 10-24,1,1,100.00%,1,1,4
+ Randy Bullock,10,BAL,L 13-49,2,2,100.00%,1,1,7
+ Randy Bullock,11,at LV,L 10-17,1,2,50.00%,1,1,4
+ Randy Bullock,12,PIT,L 10-16,1,1,100.00%,1,1,4
+ Randy Bullock,13,NYJ,W 22-6,2,3,66.70%,2,2,8
+ Randy Bullock,14,at CLE,L 19-27,4,4,100.00%,1,1,13
+ Randy Bullock,15,NE,L 13-34,2,2,100.00%,1,1,7
+ Randy Bullock,16,at MIA,L 35-38,2,2,100.00%,1,1,7
+ Randy Bullock,17,CLE,W 33-23,2,2,100.00%,3,4,9
+ Jake Elliott,1,WAS,W 32-27,1,1,100.00%,3,3,6
+ Jake Elliott,2,at ATL,L 20-24,2,2,100.00%,0,0,6
+ Jake Elliott,3,DET,L 24-27,1,1,100.00%,3,3,6
+ Jake Elliott,4,at GB,W 34-27,0,0,0.00%,4,4,4
+ Jake Elliott,5,NYJ,W 31-6,1,1,100.00%,4,4,7
+ Jake Elliott,6,at MIN,L 20-38,2,2,100.00%,2,2,8
+ Jake Elliott,7,at DAL,L 10-37,1,1,100.00%,1,1,4
+ Jake Elliott,8,at BUF,W 31-13,1,1,100.00%,2,3,5
+ Jake Elliott,9,CHI,W 22-14,3,3,100.00%,1,2,10
+ Jake Elliott,11,NE,L 10-17,1,1,100.00%,1,1,4
+ Jake Elliott,12,SEA,L 9-17,1,1,100.00%,0,0,3
+ Jake Elliott,13,at MIA,L 31-37,3,4,75.00%,2,2,11
+ Jake Elliott,14,NYG,W 23-17,1,2,50.00%,2,2,5
+ Jake Elliott,15,at WAS,W 37-27,1,1,100.00%,4,4,7
+ Jake Elliott,16,DAL,W 17-9,1,3,33.30%,2,2,5
+ Jake Elliott,17,at NYG,W 34-17,2,2,100.00%,4,4,10
+Ka'imi Fairbairn,1,at NO,L 28-30,0,0,0.00%,4,4,4
+ Ka'imi Fairbairn,2,JAC,W 13-12,2,2,100.00%,1,1,7
+ Ka'imi Fairbairn,3,at LAC,W 27-20,0,1,0.00%,3,4,3
+ Ka'imi Fairbairn,4,CAR,L 10-16,1,2,50.00%,1,1,4
+ Ka'imi Fairbairn,5,ATL,W 53-32,2,2,100.00%,5,7,11
+ Ka'imi Fairbairn,6,at KC,W 31-24,1,2,50.00%,2,3,5
+ Ka'imi Fairbairn,7,at IND,L 23-30,3,3,100.00%,2,2,11
+ Ka'imi Fairbairn,8,LV,W 27-24,2,2,100.00%,3,3,9
+ Ka'imi Fairbairn,9,at JAC,W 26-3,2,3,66.70%,2,3,8
+ Ka'imi Fairbairn,11,at BAL,L 7-41,0,1,0.00%,1,1,1
+ Ka'imi Fairbairn,12,IND,W 20-17,2,2,100.00%,2,2,8
+ Ka'imi Fairbairn,13,NE,W 28-22,0,0,0.00%,4,4,4
+ Ka'imi Fairbairn,14,DEN,L 24-38,1,1,100.00%,3,3,6
+ Ka'imi Fairbairn,15,at TEN,W 24-21,1,1,100.00%,3,3,6
+ Ka'imi Fairbairn,16,at TB,W 23-20,3,3,100.00%,2,2,11
+ Ka'imi Fairbairn,17,TEN,L 14-35,0,0,0.00%,2,2,2
+ Adam Vinatieri,1,at LAC,L 24-30,1,3,33.30%,1,2,4
+ Adam Vinatieri,2,at TEN,W 19-17,0,0,0.00%,1,3,1
+ Adam Vinatieri,3,ATL,W 27-24,2,2,100.00%,3,3,9
+ Adam Vinatieri,4,LV,L 24-31,1,2,50.00%,3,3,6
+ Adam Vinatieri,5,at KC,W 19-13,4,4,100.00%,1,1,13
+ Adam Vinatieri,7,HOU,W 30-23,0,0,0.00%,4,4,4
+ Adam Vinatieri,8,DEN,W 15-13,3,4,75.00%,0,1,9
+ Adam Vinatieri,9,at PIT,L 24-26,1,2,50.00%,1,2,4
+ Adam Vinatieri,10,MIA,L 12-16,2,2,100.00%,0,1,6
+ Adam Vinatieri,11,JAC,W 33-13,1,1,100.00%,4,4,7
+ Adam Vinatieri,12,at HOU,L 17-20,1,1,100.00%,2,2,5
+ Adam Vinatieri,13,TEN,L 17-31,1,4,25.00%,2,2,5
+ Chase McLaughlin,14,at TB,L 35-38,2,3,66.70%,3,3,9
+ Chase McLaughlin,15,at NO,L 7-34,0,0,0.00%,1,1,1
+ Chase McLaughlin,16,CAR,W 38-6,1,1,100.00%,5,5,8
+ Chase McLaughlin,17,at JAC,L 20-38,2,2,100.00%,2,2,8
+ Jason Sanders,1,BAL,L 10-59,1,1,100.00%,1,1,4
+ Jason Sanders,2,NE,L 0-43,0,0,0.00%,0,0,0
+ Jason Sanders,3,at DAL,L 6-31,2,3,66.70%,0,0,6
+ Jason Sanders,4,LAC,L 10-30,1,3,33.30%,1,1,4
+ Jason Sanders,6,WAS,L 16-17,1,1,100.00%,1,1,4
+ Jason Sanders,7,at BUF,L 21-31,0,0,0.00%,3,3,3
+ Jason Sanders,8,at PIT,L 14-27,0,0,0.00%,2,2,2
+ Jason Sanders,9,NYJ,W 26-18,1,2,50.00%,3,3,6
+ Jason Sanders,10,at IND,W 16-12,3,3,100.00%,1,1,10
+ Jason Sanders,11,BUF,L 20-37,0,0,0.00%,2,2,2
+ Jason Sanders,12,at CLE,L 24-41,1,1,100.00%,3,3,6
+ Jason Sanders,13,PHI,W 37-31,1,1,100.00%,2,3,5
+ Jason Sanders,14,at NYJ,L 21-22,7,8,87.50%,0,0,21
+ Jason Sanders,15,at NYG,L 20-36,2,3,66.70%,2,2,8
+ Jason Sanders,16,CIN,W 38-35,1,2,50.00%,5,5,8
+ Jason Sanders,17,at NE,W 27-24,2,2,100.00%,3,3,9
+ Steve Hauschka,1,at NYJ,W 17-16,1,1,100.00%,2,2,5
+ Steve Hauschka,2,at NYG,W 28-14,0,0,0.00%,4,4,4
+ Steve Hauschka,3,CIN,W 21-17,2,3,66.70%,1,1,7
+ Steve Hauschka,4,NE,L 10-16,1,2,50.00%,1,1,4
+ Steve Hauschka,5,at TEN,W 14-7,0,0,0.00%,2,2,2
+ Steve Hauschka,7,MIA,W 31-21,3,3,100.00%,2,2,11
+ Steve Hauschka,8,PHI,L 13-31,0,1,0.00%,1,2,1
+ Steve Hauschka,9,WAS,W 24-9,1,1,100.00%,3,3,6
+ Steve Hauschka,10,at CLE,L 16-19,0,2,0.00%,2,2,2
+ Steve Hauschka,11,at MIA,W 37-20,3,3,100.00%,4,4,13
+ Steve Hauschka,12,DEN,W 20-3,2,2,100.00%,2,2,8
+ Steve Hauschka,13,at DAL,W 26-15,2,3,66.70%,2,3,8
+ Steve Hauschka,14,BAL,L 17-24,3,3,100.00%,0,0,9
+ Steve Hauschka,15,at PIT,W 17-10,1,1,100.00%,2,2,5
+ Steve Hauschka,16,at NE,L 17-24,1,1,100.00%,2,2,5
+ Steve Hauschka,17,NYJ,L 6-13,2,2,100.00%,0,0,6
+Eddy Pineiro,1,GB,L 3-10,1,1,100.00%,0,0,3
+ Eddy Pineiro,2,at DEN,W 16-14,3,3,100.00%,1,1,10
+ Eddy Pineiro,3,at WAS,W 31-15,1,2,50.00%,4,4,7
+ Eddy Pineiro,4,MIN,W 16-6,3,3,100.00%,1,1,10
+ Eddy Pineiro,5,at LV,L 21-24,0,0,0.00%,3,3,3
+ Eddy Pineiro,7,NO,L 25-36,1,1,100.00%,2,2,5
+ Eddy Pineiro,8,LAC,L 16-17,3,5,60.00%,1,1,10
+ Eddy Pineiro,9,at PHI,L 14-22,0,0,0.00%,2,2,2
+ Eddy Pineiro,10,DET,W 20-13,0,0,0.00%,2,3,2
+ Eddy Pineiro,11,at LAR,L 7-17,0,2,0.00%,1,1,1
+ Eddy Pineiro,12,NYG,W 19-14,2,2,100.00%,1,2,7
+ Eddy Pineiro,13,at DET,W 24-20,1,1,100.00%,3,3,6
+ Eddy Pineiro,14,DAL,W 31-24,1,1,100.00%,4,4,7
+ Eddy Pineiro,15,at GB,L 13-21,2,2,100.00%,1,1,7
+ Eddy Pineiro,16,KC,L 3-26,1,1,100.00%,0,0,3
+ Eddy Pineiro,17,at MIN,W 21-19,4,4,100.00%,1,1,13
+ Dustin Hopkins,1,at PHI,L 27-32,2,2,100.00%,3,3,9
+ Dustin Hopkins,2,DAL,L 21-31,0,0,0.00%,3,3,3
+ Dustin Hopkins,3,CHI,L 15-31,1,2,50.00%,0,0,3
+ Dustin Hopkins,4,at NYG,L 3-24,1,1,100.00%,0,0,3
+ Dustin Hopkins,5,NE,L 7-33,0,0,0.00%,1,1,1
+ Dustin Hopkins,6,at MIA,W 17-16,1,2,50.00%,2,2,5
+ Dustin Hopkins,7,SF,L 0-9,0,1,0.00%,0,0,0
+ Dustin Hopkins,8,at MIN,L 9-19,3,3,100.00%,0,0,9
+ Dustin Hopkins,9,at BUF,L 9-24,3,3,100.00%,0,0,9
+ Dustin Hopkins,11,NYJ,L 17-34,1,2,50.00%,0,0,3
+ Dustin Hopkins,12,DET,W 19-16,4,4,100.00%,1,1,13
+ Dustin Hopkins,13,at CAR,W 29-21,3,4,75.00%,2,2,11
+ Dustin Hopkins,14,at GB,L 15-20,1,1,100.00%,0,1,3
+ Dustin Hopkins,15,PHI,L 27-37,2,2,100.00%,3,3,9
+ Dustin Hopkins,16,NYG,L 35-41,0,0,0.00%,5,5,5
+ Dustin Hopkins,17,at DAL,L 16-47,3,3,100.00%,1,1,10
+ Daniel Carlson,1,DEN,W 24-16,1,1,100.00%,3,3,6
+ Daniel Carlson,2,KC,L 10-28,1,1,100.00%,1,1,4
+ Daniel Carlson,3,at MIN,L 14-34,0,1,0.00%,2,2,2
+ Daniel Carlson,4,at IND,W 31-24,1,1,100.00%,4,4,7
+ Daniel Carlson,5,CHI,W 24-21,1,1,100.00%,3,3,6
+ Daniel Carlson,7,at GB,L 24-42,1,1,100.00%,3,3,6
+ Daniel Carlson,8,at HOU,L 24-27,1,1,100.00%,3,3,6
+ Daniel Carlson,9,DET,W 31-24,1,2,50.00%,4,4,7
+ Daniel Carlson,10,LAC,W 26-24,2,3,66.70%,2,3,8
+ Daniel Carlson,11,CIN,W 17-10,1,1,100.00%,2,2,5
+ Daniel Carlson,12,at NYJ,L 3-34,1,2,50.00%,0,0,3
+ Daniel Carlson,13,at KC,L 9-40,1,2,50.00%,0,1,3
+ Daniel Carlson,14,TEN,L 21-42,0,0,0.00%,3,3,3
+ Daniel Carlson,15,JAC,L 16-20,3,4,75.00%,1,1,10
+ Daniel Carlson,16,at LAC,W 24-17,1,1,100.00%,3,3,6
+ Daniel Carlson,17,at DEN,L 15-16,3,4,75.00%,0,0,9
+ Kaare Vedvik,1,BUF,L 16-17,0,1,0.00%,0,1,0
+ Sam Ficken,2,CLE,L 3-23,1,1,100.00%,0,0,3
+ Sam Ficken,3,at NE,L 14-30,0,0,0.00%,2,2,2
+ Sam Ficken,5,at PHI,L 6-31,0,1,0.00%,0,0,0
+ Sam Ficken,6,DAL,W 24-22,1,1,100.00%,3,3,6
+ Sam Ficken,7,NE,L 0-33,0,0,0.00%,0,0,0
+ Sam Ficken,8,at JAC,L 15-29,0,0,0.00%,1,1,1
+ Sam Ficken,9,at MIA,L 18-26,3,4,75.00%,1,1,10
+ Sam Ficken,10,NYG,W 34-27,2,3,66.70%,4,4,10
+ Sam Ficken,11,at WAS,W 34-17,0,1,0.00%,4,5,4
+ Sam Ficken,12,LV,W 34-3,2,3,66.70%,4,4,10
+ Sam Ficken,13,at CIN,L 6-22,2,2,100.00%,0,0,6
+ Sam Ficken,14,MIA,W 22-21,3,3,100.00%,1,2,10
+ Sam Ficken,15,at BAL,L 21-42,0,1,0.00%,1,2,1
+ Sam Ficken,16,PIT,W 16-10,3,3,100.00%,1,1,10
+ Sam Ficken,17,at BUF,W 13-6,2,4,50.00%,1,1,7
+ Cairo Santos,1,at CLE,W 43-13,2,2,100.00%,5,5,11
+ Cairo Santos,2,IND,L 17-19,1,2,50.00%,2,2,5
+ Cairo Santos,3,at JAC,L 7-20,0,0,0.00%,1,1,1
+ Cairo Santos,4,at ATL,W 24-10,1,1,100.00%,3,3,6
+ Cairo Santos,5,BUF,L 7-14,0,4,0.00%,1,1,1
+ Cody Parkey,6,at DEN,L 0-16,0,0,0.00%,0,0,0
+ Cody Parkey,7,LAC,W 23-20,1,1,100.00%,2,3,5
+ Cody Parkey,8,TB,W 27-23,2,2,100.00%,3,3,9
+ Ryan Succop,9,at CAR,L 20-30,0,3,0.00%,2,2,2
+ Ryan Succop,10,KC,W 35-32,0,0,0.00%,3,4,3
+ Ryan Succop,12,JAC,W 42-20,0,0,0.00%,6,6,6
+ Ryan Succop,13,at IND,W 31-17,1,1,100.00%,4,4,7
+ Ryan Succop,14,at LV,W 42-21,0,1,0.00%,6,6,6
+ Ryan Succop,15,HOU,L 21-24,0,1,0.00%,3,3,3
+ Greg Joseph,16,NO,L 28-38,0,0,0.00%,4,4,4
+ Greg Joseph,17,at HOU,W 35-14,0,0,0.00%,5,5,5
+ Aldrick Rosas,1,at DAL,L 17-35,1,1,100.00%,2,2,5
+ Aldrick Rosas,2,BUF,L 14-28,0,1,0.00%,2,2,2
+ Aldrick Rosas,3,at TB,W 32-31,1,1,100.00%,3,3,6
+ Aldrick Rosas,4,WAS,W 24-3,1,1,100.00%,3,3,6
+ Aldrick Rosas,5,MIN,L 10-28,1,1,100.00%,1,1,4
+ Aldrick Rosas,6,at NE,L 14-35,0,0,0.00%,2,2,2
+ Aldrick Rosas,7,ARI,L 21-27,0,1,0.00%,3,3,3
+ Aldrick Rosas,8,at DET,L 26-31,0,0,0.00%,2,3,2
+ Aldrick Rosas,9,DAL,L 18-37,4,4,100.00%,0,1,12
+ Aldrick Rosas,10,at NYJ,L 27-34,0,0,0.00%,1,2,1
+ Aldrick Rosas,12,at CHI,L 14-19,0,2,0.00%,2,2,2
+ Aldrick Rosas,13,GB,L 13-31,2,2,100.00%,1,1,7
+ Aldrick Rosas,14,at PHI,L 17-23,1,1,100.00%,2,2,5
+ Aldrick Rosas,15,MIA,W 36-20,0,0,0.00%,4,5,4
+ Aldrick Rosas,16,at WAS,W 41-35,0,1,0.00%,5,5,5
+ Aldrick Rosas,17,PHI,L 17-34,1,1,100.00%,2,2,5
