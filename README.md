@@ -26,4 +26,4 @@ points per week on average. In addition, a top 10 player breakdown by player to 
 
 10) Defense scatter plot: This shows a different visual to comprehend the differences in defensive fantasy points on average on a weekly basis. 
 
-11) Kicker Bar Chart: Made with Matplotlib showing the top 10 kickers of the NFL based on their fantasy points for the season.
+11) Kicker Bar and Line Chart: Made with Matplotlib showing the top kickers of the NFL based on their fantasy points for the season.
